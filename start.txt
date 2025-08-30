@@ -1,4 +1,0 @@
-Test Git Quick Start demo
-demo2
-demo3
-demo4
