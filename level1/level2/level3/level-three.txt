@@ -1,3 +1,0 @@
-Ceci est mon fichier level1-file.txt
-Ceci est mon fichier level2-file.txt
-Ceci est mon fichier lebel3-file.txt
